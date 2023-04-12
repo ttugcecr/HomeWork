@@ -1,0 +1,16 @@
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\bin\Debug\CA_IfElse.exe.config
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\bin\Debug\CA_IfElse.exe
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\bin\Debug\CA_IfElse.pdb
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.csproj.AssemblyReference.cache
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.exe
+C:\Users\FatihGunalp\Desktop\YZL3166\C#\21.03\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.pdb
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\bin\Debug\CA_IfElse.exe.config
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\bin\Debug\CA_IfElse.exe
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\bin\Debug\CA_IfElse.pdb
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.csproj.AssemblyReference.cache
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.csproj.SuggestedBindingRedirects.cache
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.csproj.CoreCompileInputs.cache
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.exe
+C:\Users\tugce\Desktop\CA_IfElse\CA_IfElse\obj\Debug\CA_IfElse.pdb
